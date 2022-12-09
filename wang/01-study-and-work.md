@@ -12,7 +12,7 @@
     * bachelor's degree
   * 在职
     * I work. I'm a /an ...
-    * civil servant
+    * **civil servant**
     * Currently I'm working for ... as a /an ...
     * I'm **responsible for / in charge of** ...
     * My responsibilities **involve** ...
@@ -46,7 +46,7 @@
   * I'd like to ... **see myself** in a **management position**
   * My goal is to ... **set up my own business**
 
-\--
+**Exam Practice**
 
 1. Do you work or are you a student?
 2. Why did you choose to study that/do that type of work?

@@ -38,9 +38,7 @@ ID check
 * a sea of people
 * throngs of people
 
-剑桥中级英语惯用搭配
 
-剑桥高级英语惯用搭配
 
 #### idioms
 
@@ -58,4 +56,12 @@ www.thefreedictionary.com
 
 BBC 纠音节目
 
-Practice doesn't make perfect, only perfect practice makes perfect.
+**Practice doesn't make perfect, only perfect practice makes perfect.**
+
+****
+
+****
+
+****
+
+****
