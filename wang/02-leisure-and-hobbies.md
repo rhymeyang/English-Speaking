@@ -1,11 +1,11 @@
 # 🔷 02 Leisure & Hobbies
 
-## Leisure & Hobbies
+### Leisure & Hobbies
 
-### Cooking
+#### Cooking
 
-* **bestie** 最好的朋友
-* **selfie** 自拍
+* bestie 最好的朋友
+* selfie 自拍
 
 Do you like cooking?
 
@@ -25,9 +25,7 @@ Definitely. I'm a **foodie** and a **keen** cook. I try to make my own food **as
 * 动词词组
 * 名词词组
 
-
-
-Details
+\--
 
 * Be 词组
   * be into
@@ -71,7 +69,7 @@ Details
 1. Positive feelings
    * <mark style="color:red;">therapeutic</mark>
    * relaxing
-   * <mark style="color:red;">**exhilarating**</mark>
+   * exhilarating
    * touching / moving
    * thought-provoking (provoke thought)
    * breath-taking
@@ -79,9 +77,9 @@ Details
 2. Negative feelings
    * boring (太多，不建议)
    * tedious
-   * <mark style="color:red;">dull</mark> (发音 和 door doll 区别)
+   * dull (发音 和 door doll 区别)
    * dreadful
-   * <mark style="color:red;">strenuous</mark>
+   * strenuous
    * embarrassing
    * time-consuming
 
@@ -89,7 +87,7 @@ Details
 * I find ... + adj.
 * It feels ...
 
-### **Music**
+**Music**
 
 I listen to **various** kinds of music on my device, **be it** classical or rap. **Every now and then** I go to **live** performances, though I prefer **gigs** to big concerts. The **atmosphere** is more intimate and **personal**.
 
@@ -100,17 +98,17 @@ In fact, I've just **taken up** the piano after I went to a gig by an upcoming m
 * take up a hobby
 * gig
   * 小型音乐会
-* <mark style="color:red;">catchy</mark>
-* <mark style="color:red;">mushy</mark>
+* catchy
+* mushy
   * 肉麻
 * original
   * manufactured
 
-### **Dance**
+**Dance**
 
-I'm terribly <mark style="color:red;">uncoordinated</mark>, so dancing is **not really my kind of thing**. But I do enjoy watching people dance, especially hip-hop. I wish I could one day learn a few moves to **impress** my friends.
+I'm terribly uncoordinated, so dancing is **not really my kind of thing**. But I do enjoy watching people dance, especially hip-hop. I wish I could one day learn a few moves to **impress** my friends.
 
-* <mark style="color:red;">tone deaf</mark> 五音不全
+* tone deaf 五音不全
   * tune
 * uncoordinated
 * move
@@ -118,7 +116,7 @@ I'm terribly <mark style="color:red;">uncoordinated</mark>, so dancing is **not 
 * 广场舞
   * line dance
 
-It's common to see a bunch of **grannies** dancing to **blasting** music in public squares. For the participants this is a popular **form of exercise** but for some young people it's sometimes a <mark style="color:red;">**nuisance**</mark>.
+It's common to see a bunch of **grannies** dancing to **blasting** music in public squares. For the participants this is a popular **form of exercise** but for some young people it's sometimes a **nuisance**.
 
 ### Art
 
@@ -126,15 +124,15 @@ It's common to see a bunch of **grannies** dancing to **blasting** music in publ
 
 I'm quite **into** art, I mean I enjoy looking at beautiful pictures on Instagram and Pinterest. But going to the exhibitions, I can **take it or leave it**. I believe you find art everywhere if you pay attention.
 
-I'm a big <mark style="color:red;">shutterbug</mark>. I carry my digital camera wherever I go. I love taking photos of **landscapes** and <mark style="color:red;">portraits</mark> of my friends. For me the best part of photography is to capture a moment that would otherwise be lost forever. But <mark style="color:red;">selfies</mark> are not really my thing, I guess I'm not very **photogenic**.
+I'm a big shutterbug. I carry my digital camera wherever I go. I love taking photos of **landscapes** and portraits of my friends. For me the best part of photography is to capture a moment that would otherwise be lost forever. But selfies are not really my thing, I guess I'm not very **photogenic**.
 
 * scenery 不可数
 
-### **Reading**
+**Reading**
 
-My high school English teacher really <mark style="color:red;">**instilled**</mark>** in me the love of** books and to appreciate all types, including **Shakespere, poetry, **<mark style="color:red;">**biographies**</mark>** and a autobiographies**, instead of the easy-reading type of books such as **fiction** and **love stories**.
+My high school English teacher really **instilled in me the love of** books and to appreciate all types, including **Shakespere, poetry, biographies and a autobiographies**, instead of the easy-reading type of books such as **fiction** and **love stories**.
 
-* <mark style="color:red;">instill someone sth.</mark>
+* instill someone sth.
 * a page turner 好看的书
 * best seller
 * fiction, non-fiction
